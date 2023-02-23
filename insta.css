@@ -1,0 +1,67 @@
+.container{
+    background-color:rgb(242, 242, 248);
+    border-color:black;
+   float:center;
+   margin-top:80px;
+   margin-left:400px;
+   text-align:center;
+   height:500px;
+   width:400px;
+   box-shadow:2px 4px 10px #ccc;  
+}
+.logo{
+    font-style:italic;
+}
+.fl{
+    background-color: rgb(59, 127, 230);
+    border-radius:10px;
+    width:180px;
+    height:30px;
+    color:aliceblue;
+}
+.user{
+ width:50px;
+ height:80px;
+ margin-left:113px;
+}
+.bt{
+    margin-top:80px;
+}
+.fS{
+    background-color: rgb(51, 126, 224);
+    color:aliceblue;
+    border-radius:10px;
+    width:180px;
+    height:20px;
+    text-align:center;
+}
+.AL{
+    background-color:rgb(242, 242, 248);
+    box-shadow:2px 4px 10px #00000033;  
+    
+    /* display:inline; */
+    margin-top:50px;
+    /* margin-left:8px; */
+    height:50px;
+    width:400px;
+    padding-top:20px;
+
+   
+
+}
+.new{
+    display:inline;
+    margin-top:30px;
+    padding-top:40px;
+}
+.new1{
+    display:inline;
+    margin-top:30px;
+    padding-top:40px;
+    text-decoration: none;
+    color:rgb(50, 132, 240);
+
+}
+  .new1:hover{
+    text-decoration: underline;
+  } 
